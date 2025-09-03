@@ -2,14 +2,14 @@
 
 Repository for the journal paper *"A Multi-Fidelity Data Meta-Learning Approach for Seismic Response Prediction of High-Rise Shear Wall Buildings"*  
 
----
 
-## 📌 Overview  
+
+## Overview  
 This repository provides datasets, models, and code to support the reproducibility and reusability of the proposed multi-fidelity data meta-learning approach.  
 
----
 
-## 📂 Contents  
+
+## Contents  
 
 ### 1. Datasets  
 - **low-fidelity dataset**: simulation-based response data of 2D MDOF models
@@ -22,12 +22,12 @@ This repository provides datasets, models, and code to support the reproducibili
 ### 3. Code  
 - Key scripts and modules enabling model application  
 
----
 
-## 📖 Availability  
+
+## Availability  
 Detailed documentation, dataset access instructions, and complete code will be released upon acceptance of the manuscript.  
 
----
 
-## 📑 Citation  
+
+## Citation  
 If you find this repository useful, please cite our paper once it is published.  
