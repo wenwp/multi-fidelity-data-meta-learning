@@ -12,12 +12,13 @@ This repository provides datasets, models, and code to support the reproducibili
 ## Contents  
 
 ### 1. Datasets  
-- **low-fidelity dataset**: simulation-based response data of 2D MDOF models
-- **high-fidelity dataset**: real-world field monitoring data collected from high-rise shear wall buildings   
+- **Low-fidelity dataset**: Simulation-based seismic response data of **67 two-dimensional MDOF models** under **200 ground motions**.  
+- **High-fidelity dataset**: Component-level finite element models of **20 high-rise shear wall buildings**, each subjected to **20 ground motions**.  
+- **Field monitoring dataset**: Real-world strong-motion monitoring data collected from **3 high-rise shear wall buildings**.  
 
 ### 2. Models  
 - **Baseline models**: trained exclusively on low-fidelity datasets for initial performance benchmarking   
-- **Trained models**: adapted and fine-tuned on high-fidelity datasets to improve prediction accuracy    
+- **Updated models**: adapted and fine-tuned on high-fidelity datasets to improve prediction accuracy    
 
 ### 3. Code  
 - Key scripts and modules enabling model application  
