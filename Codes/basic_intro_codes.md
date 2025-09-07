@@ -13,14 +13,7 @@ This repository provides key scripts and modules that enable the practical appli
 
 ### 2. Incremental Model Updating with Expanding Datasets  
 - **Description**: Supports **incremental learning**, where the model can be updated as new datasets (low-fidelity, high-fidelity, or monitoring data) become available.  
-- **Features**:  
-  - Fine-tuning strategies for adapting to different fidelity levels.  
-  - Mechanisms to mitigate catastrophic forgetting.  
 - **Purpose**: Enables continuous model improvement without retraining from scratch, which is essential for long-term deployment.  
 
 ### 3. City-Scale Model Application  
-- **Description**: Provides tools and pipelines for applying the trained models to **urban-scale building inventories**.  
-- **Functions**:  
-  - Batch processing of thousands of buildings simultaneously.  
-  - Integration with building metadata and probabilistic seismic hazard scenarios.  
 - **Purpose**: Demonstrates the scalability of the proposed method for large-scale resilience assessment and rapid seismic response prediction across city clusters.  
